@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Control Parental Telmex</string>
+    <string name="title_dashboard">Control de Internet</string>
+    <string name="status_connected">INTERNET ACTIVO</string>
+    <string name="status_connected_desc">Tus hijos tienen acceso libre a internet.</string>
+    <string name="status_paused">INTERNET PAUSADO</string>
+    <string name="status_paused_desc">El internet de los dispositivos está bloqueado.</string>
+    
+    <string name="btn_pause">PAUSAR INTERNET</string>
+    <string name="btn_resume">REANUDAR INTERNET</string>
+    
+    <string name="quick_timers_title">Pausa rápida con temporizador</string>
+    <string name="timer_30m">⏱ 30 min</string>
+    <string name="timer_1h">⏱ 1 hora</string>
+    <string name="timer_2h">⏱ 2 horas</string>
+    <string name="timer_stop">Cancelar pausa</string>
+    
+    <string name="settings_title">Configuración del Módem</string>
+    <string name="modem_ip_label">IP del Módem:</string>
+    <string name="modem_user_label">Usuario:</string>
+    <string name="modem_pass_label">Contraseña WPA:</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+</resources>
